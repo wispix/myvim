@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/oix/code/c++'
+let g:netrw_dirhist_7='/home/oix/code'
+let g:netrw_dirhist_6='/home/oix'
+let g:netrw_dirhist_5='/home/oix/code'
+let g:netrw_dirhist_4='/home/oix'
+let g:netrw_dirhist_3='/c/Users/zjwzj/code/c/datastructure/tree/binarytree/test'
+let g:netrw_dirhist_2='/c/Users/zjwzj/code/c/misc'
+let g:netrw_dirhist_1='/c/Users/zjwzj'
